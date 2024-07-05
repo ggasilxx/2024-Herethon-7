@@ -39,5 +39,60 @@
 * 임수연 | 프론트엔드
 <br><br>
 # 📁폴더 구조
+C:\USERS\82102\PYCHARMPROJECTS\2024-HERETHON-7\BEEWALK     
+├───Accountapp   
+│   ├───migrations   
+│   │   └───__pycache__   
+│   ├───static   
+│   │   ├───css   
+│   │   └───img   
+│   ├───templates   
+│   │   └───Accountapp   
+│   └───__pycache__   
+├───Countapp   
+│   ├───migrations   
+│   │   └───__pycache__   
+│   ├───static   
+│   │   ├───css   
+│   │   └───img   
+│   ├───templates   
+│   │   └───Countapp   
+│   └───__pycache__   
+├───herethon   
+│   └───__pycache__   
+├───Historyapp   
+│   ├───migrations   
+│   │   └───__pycache__   
+│   ├───templates   
+│   │   └───Historyapp   
+│   └───__pycache__   
+├───Homeapp      
+│   ├───migrations      
+│   │   └───__pycache__    
+│   ├───static     
+│   │   ├───css   
+│   │   ├───img   
+│   │   └───js   
+│   ├───templates   
+│   │   └───Homeapp   
+│   └───__pycache__     
+├───media            
+│   ├───archives             
+│   ├───certifications                    
+│   └───profiles_img                   
+├───musicarchive             
+│   ├───migrations               
+│   │   └───__pycache__           
+│   ├───templates              
+│   │   └───musicarchive               
+│   └───__pycache__            
+├───profiles               
+│   ├───migrations            
+│   │   └───__pycache__               
+│   ├───templates            
+│   │   └───profiles               
+│   └───__pycache__            
+└───pwa             
 <br><br>
 # ⏩개발 환경에서 실행 방법
+실행 명령어 python manage.py runserver_plus 0.0.0.0:8000 --cert-file "C:\Program Files\OpenSSL-Win64\bin\cert.pem" --key-file "C:\Program Files\OpenSSL-Win64\bin\key.pem"
