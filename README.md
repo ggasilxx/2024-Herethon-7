@@ -30,7 +30,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="django" width="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt="python" width="50">    
   &nbsp;&nbsp;Django &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python
 <br><br>
-# 🤚팀 넘버파이브
+# 🤚팀 N5
 ### **MBTI N(직관형) 5명이 모인 팀 N5를 소개합니다!**
 * 한지원 | 프론트엔드(팀장)
 * 김가을 | 기획·디자인
