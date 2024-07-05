@@ -18,9 +18,17 @@
 >
 <br><br>
 # 🔧기술 스택
-* 기획·디자인: Figma
-* 프론트엔드: HTML·CSS·JS
-* 백앤드: Django·Python
+* 기획·디자인:    
+  &nbsp;&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUX5LMRa7atIsNfl0nP3DaUaV4URhV0PHfA&s" alt="figma" width="50">   
+  &nbsp;&nbsp;&nbsp;Figma
+  <br><br>
+* 프론트엔드:    
+<img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="html" width="80"> <img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" alt="css" width="50"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="js" width="50">    
+  &nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS
+  <br><br>
+* 백앤드:   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="django" width="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt="python" width="50">    
+  &nbsp;&nbsp;Django &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python
 <br><br>
 # 🤚팀 넘버파이브
 ### **MBTI N(직관형) 5명이 모인 팀 N5를 소개합니다!**
